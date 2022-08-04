@@ -16,6 +16,7 @@
 		AFE554B3289B651500D2A2BF /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFE554B2289B651500D2A2BF /* FrameworkDetailView.swift */; };
 		AFE554B5289B66EB00D2A2BF /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFE554B4289B66EB00D2A2BF /* AFButton.swift */; };
 		AFE554B7289B68FB00D2A2BF /* FrameworkTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFE554B6289B68FB00D2A2BF /* FrameworkTitleView.swift */; };
+		AFE554B9289B69D200D2A2BF /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFE554B8289B69D200D2A2BF /* FrameworkGridViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		AFE554B2289B651500D2A2BF /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		AFE554B4289B66EB00D2A2BF /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		AFE554B6289B68FB00D2A2BF /* FrameworkTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkTitleView.swift; sourceTree = "<group>"; };
+		AFE554B8289B69D200D2A2BF /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,10 +68,11 @@
 				AFE554B2289B651500D2A2BF /* FrameworkDetailView.swift */,
 				75C5F9F7282AB44300A2E7E4 /* Framework.swift */,
 				75C5F9F9282AB48B00A2E7E4 /* MockData.swift */,
-				75C5F9ED282AB40F00A2E7E4 /* Assets.xcassets */,
-				75C5F9EF282AB40F00A2E7E4 /* Preview Content */,
 				AFE554B4289B66EB00D2A2BF /* AFButton.swift */,
 				AFE554B6289B68FB00D2A2BF /* FrameworkTitleView.swift */,
+				AFE554B8289B69D200D2A2BF /* FrameworkGridViewModel.swift */,
+				75C5F9ED282AB40F00A2E7E4 /* Assets.xcassets */,
+				75C5F9EF282AB40F00A2E7E4 /* Preview Content */,
 			);
 			path = "Apple-Frameworks";
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 				75C5F9F8282AB44300A2E7E4 /* Framework.swift in Sources */,
 				AFE554B5289B66EB00D2A2BF /* AFButton.swift in Sources */,
 				75C5F9EA282AB40D00A2E7E4 /* Apple_FrameworksApp.swift in Sources */,
+				AFE554B9289B69D200D2A2BF /* FrameworkGridViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
