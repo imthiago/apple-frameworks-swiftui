@@ -24,5 +24,6 @@ struct AFButton: View {
 struct AFButton_Previews: PreviewProvider {
     static var previews: some View {
         AFButton(title: "Test Title")
+            .preferredColorScheme(.dark)
     }
 }

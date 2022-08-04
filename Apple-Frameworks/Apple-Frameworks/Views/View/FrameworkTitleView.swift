@@ -28,5 +28,6 @@ struct FrameworkTitleView: View {
 struct FrameworkTitleView_Previews: PreviewProvider {
     static var previews: some View {
         FrameworkTitleView(framework: MockData.sampleFramework)
+            .preferredColorScheme(.dark)
     }
 }
